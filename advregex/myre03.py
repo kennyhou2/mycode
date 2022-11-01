@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import re
 
 wood = "How much wood would a woodchuck chuck if a woodchuck could chuck wood?"
